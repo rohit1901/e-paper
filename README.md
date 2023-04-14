@@ -1,6 +1,6 @@
 # E-Paper Micropython Implementation
 
-This repository contains the code for implementing E-Paper display using Micropython. The code is written for the Waveshare E-Ink 3.7 Inch Display using a Raspberry Pi Pico W board and uses the self-implemented E-Paper module for displaying the content.
+This repository contains the code for implementing E-Paper display using Micropython. The code is written for the [Waveshare E-Ink 3.7 Inch Display](https://www.waveshare.com/pico-epaper-3.7.htm) using a Raspberry Pi Pico W board and uses the self-implemented E-Paper module for displaying the content.
 
 ## Dependencies
 
